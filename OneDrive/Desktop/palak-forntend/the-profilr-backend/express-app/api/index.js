@@ -14,6 +14,7 @@ const app = express();
 const allowedOrigins = [
     "http://localhost:5173",
     "https://the-profilr.onrender.com",
+    "https://frontend-pi-gray-64.vercel.app",
     // add your Vercel frontend domain here later:
     // "https://your-frontend.vercel.app",
 ];
